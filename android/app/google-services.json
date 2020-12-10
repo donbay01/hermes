@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260737416269",
+    "firebase_url": "https://hermes-logistics.firebaseio.com",
+    "project_id": "hermes-logistics",
+    "storage_bucket": "hermes-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260737416269:android:ce37214a1a6334fefef004",
+        "android_client_info": {
+          "package_name": "com.donbay.hermeslogistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260737416269-65lq3iq1m89bockr7uh0bh8v1pt0kma6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donbay.hermeslogistics",
+            "certificate_hash": "2729e5d9b9431bbb6cff0a0478ad6ff34bbef891"
+          }
+        },
+        {
+          "client_id": "260737416269-ovngm9hsjt792l1es0qc1m487hrhfp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhEZhwE_CTwAdaaLwOXjTBVSgSKJ-Q5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260737416269-ovngm9hsjt792l1es0qc1m487hrhfp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
