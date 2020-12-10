@@ -1,7 +1,7 @@
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-const apiKey = "AIzaSyCdyuT524N4ie1R77e-jyWAYocilCpNc4k";
+const apiKey = "";
 
 class GoogleMapServices {
   Future<String> getRouteCoordinates(LatLng l1, LatLng l2) async{
